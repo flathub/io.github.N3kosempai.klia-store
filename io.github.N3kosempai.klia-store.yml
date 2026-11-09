@@ -59,6 +59,6 @@ modules:
       - type: git
         url: https://github.com/N3koSempai/KliaStore.git
         tag: v2.18.0
-        commit: e0ae4d2adfbe70da5d7c7de7175be74d782e391b
+        commit: 54ac8895dceefe96eecf5bcafca7b06755c43efa
       - generated-sources.json
       - cargo-sources.json
